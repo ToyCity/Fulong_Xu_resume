@@ -22,7 +22,7 @@
  <ul>
   <li>
    <h3>Bachlor in network engineering at WGU university</h3>
-   <p>3/8/2023</p>
+   <p>3/8/2023-current</p>
   </li>
  </ul>
 
